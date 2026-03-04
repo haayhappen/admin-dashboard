@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "moment": "2.3.x",
-    "underscore": "1.4.x",
+    "moment": "2.30.x",
+    "underscore": "1.13.x",
     "typogr": "0.5.x"
   },
   "private": "true"
